@@ -5,6 +5,7 @@ It uses API (for AI movie suggestions) and **TMDB** (for movie data) to deliver 
 
 ---
 
+
 ## 🚀 Features
 
 - **Netflix-like UI** – modern, responsive, and user-friendly.
